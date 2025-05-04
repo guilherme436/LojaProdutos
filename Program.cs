@@ -6,6 +6,6 @@ var app = builder.Build();
 
 app.UseRouting();
 
-app.MapRazorPages(); // Importante para mapear Razor Pages
+app.MapRazorPages(); 
 
 app.Run();
